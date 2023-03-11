@@ -1,2 +1,1 @@
-# Credit-analysis
-Project
+This proposal aims to explore the application of exploratory data analysis (EDA) in risk analytics in the banking and financial services industry. The study will utilize machine learning techniques to analyze a publicly available credit dataset and develop a machine learning model capable of predicting borrower default likelihood. The proposal outlines the motivation, methodology, intended experiments, planning, and milestones for the credit EDA case study.
